@@ -41,6 +41,8 @@ body {
 .profile-pic {
   width: 130px;
   height: 130px;
+  min-height: 130px;
+  max-height: 130px;
   border-radius: 50%;
   overflow: hidden;
   border: 5px solid #fff;
